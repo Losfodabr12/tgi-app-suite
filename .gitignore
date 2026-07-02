@@ -1,0 +1,19 @@
+﻿# Large media files
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.flac
+*.zip
+*.rar
+*.7z
+*.psd
+*.blend
+
+# Anime/copyrighted content folder
+ANIME SFX/
+
+# OS files
+Thumbs.db
+.DS_Store
